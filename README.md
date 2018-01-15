@@ -13,4 +13,4 @@ my _first_ seminar
   + A
   + B
   
-[вышка] (https://www.hse.ru/)
+[вышка](https://www.hse.ru/)
